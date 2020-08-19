@@ -1,6 +1,6 @@
 {
   "name": "@definejs/app-module",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -8,6 +8,10 @@
   "author": "micty",
   "email": "mictydeng@qq.com",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/definejs/app-module.git"
+  },
   "dependencies": {
     "@definejs/emitter": "^0.1.4",
     "@definejs/module-manager": "^0.1.4",
