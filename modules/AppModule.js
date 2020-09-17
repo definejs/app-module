@@ -130,3 +130,6 @@ module.exports = exports = {
 
     },
 };
+
+//增加一个快捷方法，以便可以判断某个模块是否已定义。
+exports.define.has = exports.has;
