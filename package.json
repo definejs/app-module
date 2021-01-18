@@ -1,6 +1,6 @@
 {
   "name": "@definejs/app-module",
-  "version": "0.1.13",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,9 +13,9 @@
     "url": "https://github.com/definejs/app-module.git"
   },
   "dependencies": {
-    "@definejs/emitter": "^0.1.4",
-    "@definejs/module-manager": "^0.1.4",
-    "@definejs/object": "^1.0.6",
-    "@definejs/string": "^0.1.5"
+    "@definejs/emitter": "^1.0.0",
+    "@definejs/module-manager": "^1.0.0",
+    "@definejs/object": "^1.1.0",
+    "@definejs/string": "^1.0.0"
   }
 }
