@@ -74,8 +74,8 @@ module.exports = exports = {
     /**
     * 设置业务层的指定模块的自定义数据。
     * 已重载 data(id, data); //设置单个模块的自定义数据。
+    * 已重载 data(ids, data);//设置多个模块，它们共用同一个自定义数据。
     * 已重载 data(id$data);  //设置多个模块，每个模块有自己的自定义数据。
-    * 已重载 data(id$data);  //设置多个模块，它们共用同一个自定义数据。
     */
     data(id, data) { 
         //重载 data(ids, data);
